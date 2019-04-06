@@ -26,3 +26,10 @@ Everybody should bring their laptop with an up-to-date operation system. Ideally
 4. Install NodeJS LTS 10.15.3 on your machine (see https://nodejs.org/en/)
 5. Install Create-React-App on your machine (see https://github.com/facebook/create-react-app)
 6. Create a new React App with Create-React-App and open it in your browser (see https://github.com/facebook/create-react-app)
+
+# Topics
+
+- Dungeon Crawler (Simon)
+- Trello Dashboard (Martin/Timo)
+- OpenData Bonn (?)
+- GatsbyJS/BonnJS.de (?)
