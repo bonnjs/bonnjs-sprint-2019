@@ -1,5 +1,10 @@
 # BonnJS Sprint 2019
 
+# Attendees
+
+- Timo Stollenwerk (Twitter: @timostollenwerk, Github: @tisto)
+- PLEASE ADD YOUR NAME HERE!
+
 # Schedule
 
 April 6th 2019
@@ -9,7 +14,7 @@ April 6th 2019
 - 11:30 Start hacking on your project
 - 13:00 Lunch (we will order food, free of charge)
 - 14:00 Continue hacking on your project
-- 19:00 Dinner (at L'Osteria https://losteria.net/de/restaurants/restaurant/bonn/, everybody has to pay individually)
+- 18:00 Dinner (at L'Osteria https://losteria.net/de/restaurants/restaurant/bonn/, everybody has to pay individually)
 
 # Prerequisits
 
